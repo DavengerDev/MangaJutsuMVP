@@ -17,7 +17,7 @@ class AnimeListActivity : ComponentActivity() {
         setContent {
             MangaJutsuMVPTheme {
                 AnimeListScreen(animes) { animeId ->
-                    //TODO descomentar para ir al detalle
+                    //TODO descomentar para ir al detalle b
                     /*val intent = Intent(this, AnimeDetailActivity::class.java).apply {
                         putExtra("ANIME_ID", animeId)
                     }
