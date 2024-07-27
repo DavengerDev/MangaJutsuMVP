@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "190118356531",
+    "project_id": "mangajutsu-bb438",
+    "storage_bucket": "mangajutsu-bb438.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190118356531:android:8bbd881deea611e4efe546",
+        "android_client_info": {
+          "package_name": "com.example.mangajutsumvp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3XmD2DijpWrRAegZCTNmIvcoGbouqCbc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

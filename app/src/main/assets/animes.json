@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "title": "Fullmetal Alchemist: Brotherhood",
+        "description": "Two brothers search for a Philosopher's Stone.",
+        "imageUrl": "https://i.pinimg.com/564x/81/18/4f/81184f083a8c37206f95e16cfc24fac2.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Attack on Titan",
+        "description": "Humans fight against giants.",
+        "imageUrl": "https://m.media-amazon.com/images/I/81qPzeEO5IL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+        "id": 3,
+        "title": "One Piece",
+        "description": "A boy with stretchy powers sets out to find the One Piece treasure.",
+        "imageUrl": "https://m.media-amazon.com/images/I/718RsRagEeL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Dragon Ball Z",
+        "description": "Warriors with incredible powers defend Earth from powerful enemies.",
+        "imageUrl": "https://m.media-amazon.com/images/I/51giUPXFPVL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Death Note",
+        "description": "A high school student discovers a notebook that allows him to kill anyone.",
+        "imageUrl": "https://m.media-amazon.com/images/I/81V2-6l6L8L._AC_UF350,350_QL80_.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Naruto",
+        "description": "A young ninja seeks recognition from his peers and dreams of becoming the Hokage.",
+        "imageUrl": "https://m.media-amazon.com/images/I/91Bn7eoQYGL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+        "id": 7,
+        "title": "Neon Genesis Evangelion",
+        "description": "Teenagers pilot giant robots to protect Earth from mysterious beings.",
+        "imageUrl": "https://www.zonanegativa.com/imagenes/2012/09/6124.jpg"
+    },
+    {
+        "id": 8,
+        "title": "Hunter x Hunter",
+        "description": "A young boy searches for his father who is a legendary Hunter.",
+        "imageUrl": "https://m.media-amazon.com/images/I/81kn7-YrYBL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "id": 9,
+        "title": "Code Geass: Lelouch of the Rebellion",
+        "description": "A prince gains a power that compels anyone to obey his orders.",
+        "imageUrl": "https://m.media-amazon.com/images/I/71U67rjOMML._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "id": 10,
+        "title": "My Hero Academia",
+        "description": "A boy without superpowers enrolls in an academy for heroes.",
+        "imageUrl": "https://m.media-amazon.com/images/I/912mJf7tsUL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+        "id": 11,
+        "title": "Berserk",
+        "description": "A lone mercenary battles his way through a medieval world filled with demons.",
+        "imageUrl": "https://i.ebayimg.com/images/g/dvQAAOSwdspgxga4/s-l1600.jpg"
+    },
+    {
+        "id": 12,
+        "title": "Demon Slayer",
+        "description": "A young boy becomes a demon slayer to avenge his family and cure his sister.",
+        "imageUrl": "https://m.media-amazon.com/images/I/81ZNkhqRvVL._AC_UF1000,1000_QL80_.jpg"
+    }
+]
